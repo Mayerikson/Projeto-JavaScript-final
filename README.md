@@ -80,9 +80,5 @@ Confirm the correct entry file or script before publishing this section unchange
 
 This project demonstrates how application state, persistent browser storage, and dynamic interface behavior can be implemented with core JavaScript and without framework abstractions.
 
-## Author
 
-**Higor Moriyama Souza**
 
-- [LinkedIn](https://www.linkedin.com/in/higormoriyamasouza)
-- [GitHub](https://github.com/HigorMoriyamaSouza)
